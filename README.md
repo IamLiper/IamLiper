@@ -1,7 +1,4 @@
-
-
-
-
+Óla, Me chamo Luís Felipe e sou estudante de Desenvolvimento de Sistemas.
 
 <a href="https://github.com/IamLiper/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IamLiper&theme=algolia" />
