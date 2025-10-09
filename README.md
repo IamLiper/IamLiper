@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/83J29188yJz0b471I4/giphy.gif" width="60"/>](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt0MHdzamV1dzM1MzJhNnJlZnIzYnpyamlvc3V5dXh4YzI3Y3B4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55gLspZSFeZP0Rmg3U/giphy.gif)
+  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt0MHdzamV1dzM1MzJhNnJlZnIzYnpyamlvc3V5dXh4YzI3Y3B4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55gLspZSFeZP0Rmg3U/giphy.gif
   <h1>Olá! Eu sou o Lipe 👋</h1>
   <p>Desenvolvedor focado em Back-end com Python e Full-Stack para projetos pessoais.</p>
 </div>
