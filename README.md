@@ -69,9 +69,9 @@ Confira meu projeto de Full-Stack mais recente (o que acabamos de implantar!):
 
 | Plataforma | Ícone | Contato |
 | :--- | :--- | :--- |
-| **LinkedIn** | 💼 | [Seu Perfil do LinkedIn]([www.linkedin.com/in/luis-felipe-ferreira-024898287]) |
-| **E-mail** | 📧 | [Seu Email]([felipinho260206@gmail.com]) |
-| **Instagram** | 💬 | [Seu Instagram]([https://www.instagram.com/iam_liper?utm_source=ig_web_button_share_sheet&igsh=bWdqYjMwdmR3emp0]) |
+| **LinkedIn** | 💼 | [Meu Perfil do LinkedIn]([www.linkedin.com/in/luis-felipe-ferreira-024898287]) |
+| **E-mail** | 📧 | [Meu Email]([felipinho260206@gmail.com]) |
+| **Instagram** | 💬 | [Meu Instagram]([https://www.instagram.com/iam_liper?utm_source=ig_web_button_share_sheet&igsh=bWdqYjMwdmR3emp0]) |
 
 <br>
 <p align="center">Feito com ❤️ e código.</p>
