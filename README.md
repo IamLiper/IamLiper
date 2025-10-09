@@ -1,4 +1,7 @@
-## Olá, Eu sou Lipe 👋
+<div align="center">
+  <h1>Olá, Eu sou Lipe 👋</h1>
+  <p>Desenvolvedor focado em Back-end com **Python** e **Flask**, explorando projetos Full-Stack e o poder da Inteligência Artificial. Apaixonado por transformar ideias em código limpo.</p>
+</div>
 
 ---
 
@@ -13,7 +16,7 @@ Aqui estão as tecnologias que uso e amo.
       <br>Python
     </td>
     <td align="center" width="100px">
-      <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/27b5a0f8-fc2f-4ae2-b9b5-345e48bdae82" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flask_logo.svg" width="40" height="40" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="100px">
@@ -43,11 +46,11 @@ Aqui estão as tecnologias que uso e amo.
 
 ## ✨ Destaque: Projetos Recentes
 
-Confira meu projeto de Full-Stack mais recente (o que acabamos de implantar!):
+Confira meu projeto de Full-Stack mais recente:
 
 | Projeto | Tecnologia | Descrição |
 | :--- | :--- | :--- |
-| **[Carta Inteligente](https://frontend-0ak6.onrender.com/)** | Python, Flask, IA (OpenAI), JS, Render | Uma aplicação web que gera cartas de amor personalizadas usando inteligência artificial, calculando o tempo de relacionamento em tempo real. |
+| **[Carta Inteligente](https://frontend-0ak6.onrender.com/)** | Python, Flask, IA (OpenAI), JS, Render | Uma aplicação web que gera cartas de amor personalizadas usando inteligência artificial, calculando o tempo de relacionamento em tempo real. **(Backend e Frontend no Render)** |
 | **[Em breve]** | [Em breve] | [Breve descrição do meu 2º melhor projeto] |
 
 ---
@@ -65,9 +68,9 @@ Confira meu projeto de Full-Stack mais recente (o que acabamos de implantar!):
 
 | Plataforma | Ícone | Contato |
 | :--- | :--- | :--- |
-| **LinkedIn** | 💼 | [Meu Perfil do LinkedIn]([www.linkedin.com/in/luis-felipe-ferreira-024898287]) |
-| **E-mail** | 📧 | [Meu Email]([felipinho260206@gmail.com]) |
-| **Instagram** | 💬 | [Meu Instagram]([https://www.instagram.com/iam_liper/]) |
+| **LinkedIn** | 💼 | [Meu Perfil do LinkedIn](https://www.linkedin.com/in/luis-felipe-ferreira-024898287) |
+| **E-mail** | 📧 | [Meu Email](mailto:felipinho260206@gmail.com) |
+| **Instagram** | 💬 | [Meu Instagram](https://www.instagram.com/iam_liper/) |
 
 <br>
 <p align="center">Feito com ❤️ e código.</p>
