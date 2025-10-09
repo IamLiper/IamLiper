@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/83J29188yJz0b471I4/giphy.gif" width="60"/>
+<img src="https://media.giphy.com/media/83J29188yJz0b471I4/giphy.gif" width="60"/>](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt0MHdzamV1dzM1MzJhNnJlZnIzYnpyamlvc3V5dXh4YzI3Y3B4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55gLspZSFeZP0Rmg3U/giphy.gif)
   <h1>Olá! Eu sou o Lipe 👋</h1>
   <p>Desenvolvedor focado em Back-end com Python e Full-Stack para projetos pessoais.</p>
 </div>
@@ -17,7 +17,7 @@ Aqui estão as tecnologias que uso e amo.
       <br>Python
     </td>
     <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flask_logo.svg" width="40" height="40" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="100px">
