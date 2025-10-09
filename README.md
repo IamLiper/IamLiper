@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ3YzNvb204Z3N3N3ZndWR2ZjF4cG96b2dwZGxmcW82Y3p2NjJ2MiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/83J29188yJz0b471I4/giphy.gif" width="60"/>
-  <h1>Olá! IamLiper 👋</h1>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ3YzNvb204Z3N3N3ZndWR2ZjF4cG96b2dwZGxmcW82Y3p2NjJ2MiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/83J29188yJz0b471I4/giphy.gif" width="60"/>
+  <h1>Olá! Eu sou o Lipe 👋</h1>
   <p>Desenvolvedor focado em Back-end com Python e Full-Stack para projetos pessoais.</p>
 </div>
 
