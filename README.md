@@ -1,6 +1,4 @@
-<div class="tenor-gif-embed" data-postid="23679126" data-share-method="host" data-aspect-ratio="0.803125" data-width="100%"><a href="https://tenor.com/view/glq-graph-linq-no-code-automation-cryptocurrency-gif-23679126">Glq Graph Linq GIF</a>from <a href="https://tenor.com/search/glq-gifs">Glq GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<h1>Olá! Eu sou o Liper 👋</h1>
-</div>
+<div class="tenor-gif-embed" data-postid="23679126" data-share-method="host" data-aspect-ratio="0.803125" data-width="100%"><a href="https://tenor.com/view/glq-graph-linq-no-code-automation-cryptocurrency-gif-23679126">Glq Graph Linq GIF</a>from <a href="https://tenor.com/search/glq-gifs">Olá! Eu sou o Liper 👋s</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
