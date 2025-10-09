@@ -16,7 +16,7 @@ Aqui estão as tecnologias que uso e amo.
       <br>Python
     </td>
     <td align="center" width="100px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flask_logo.svg" width="40" height="40" alt="Flask" />
+      <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b2724c0d-83f6-4718-8dde-f464aa19addd" />
       <br>Flask
     </td>
     <td align="center" width="100px">
