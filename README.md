@@ -3,11 +3,14 @@
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá, eu sou o Lipe
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Olá, eu sou o Lipe
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Back-end+Developer;Python+%7C+Node.js+%7C+TypeScript+%7C+JavaScript;Criando+bots%2C+APIs+e+sistemas+reais;Sempre+evoluindo+no+c%C3%B3digo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Back-end+Developer;Python+%7C+Node.js+%7C+TypeScript+%7C+JavaScript;Criando+bots%2C+APIs+e+sistemas+reais;Sempre+evoluindo+no+c%C3%B3digo" />
 
-<img src="https://komarev.com/ghpvc/?username=IamLiper&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=IamLiper&label=Profile%20Views&color=00ff41&style=for-the-badge" />
 
 </div>
 
@@ -68,7 +71,7 @@ Bot de automação e moderação para grupos, com comandos administrativos, perm
 * Controle de permissões
 * Organização modular com TypeScript
 
-🔗 **Repositório:** [Panic-Bot](https://github.com/IamLiper/Panic-Bot)
+🔗 **Repositório:** https://github.com/IamLiper/Panic-Bot
 
 ---
 
@@ -80,10 +83,10 @@ Aplicação voltada para organização financeira pessoal, controle de gastos e 
 
 * Controle de receitas e despesas
 * Organização por categorias
-* Base pronta para expansão do sistema
+* Base pronta para expansão
 * Estrutura prática para uso real
 
-🔗 **Repositório:** [App-Financeiro](https://github.com/IamLiper/App-Financeiro)
+🔗 **Repositório:** https://github.com/IamLiper/App-Financeiro
 
 ---
 
@@ -91,8 +94,9 @@ Aplicação voltada para organização financeira pessoal, controle de gastos e 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IamLiper&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&cache_seconds=1800" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamLiper&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IamLiper&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" />
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IamLiper&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" />
 
 </div>
 
@@ -103,7 +107,9 @@ Aplicação voltada para organização financeira pessoal, controle de gastos e 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=00FF41)](https://www.linkedin.com/in/luis-felipe-ferreira-024898287)
+
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge\&logo=instagram\&logoColor=00FF41)](https://www.instagram.com/iam_liper/)
+
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:felipinho260206@gmail.com)
 
 </div>
@@ -125,7 +131,7 @@ lipe@github:~$ next_step
 
 <div align="center">
 
-### `> ACCESS GRANTED_`
+### > ACCESS GRANTED_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer" />
 
