@@ -1,49 +1,51 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100%" />
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Olá, eu sou o Lipe
+  Lipe.exe
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Back-end+Developer;Python+%7C+Node.js+%7C+TypeScript+%7C+JavaScript;Criando+bots%2C+APIs+e+sistemas+reais;Sempre+evoluindo+no+c%C3%B3digo" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZED;Back-end+Developer;Python+%7C+Node.js+%7C+TypeScript+%7C+JavaScript;Bots+%2F+APIs+%2F+Automação;Evoluindo+todos+os+dias" />
 
-<img src="https://komarev.com/ghpvc/?username=IamLiper&label=Profile%20Views&color=00ff41&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=IamLiper&label=ACCESS+LOGS&color=00ff41&style=for-the-badge" />
 
 </div>
 
 ---
 
 ```bash
-> Inicializando perfil de desenvolvedor...
-> Carregando stack principal...
-> Carregando projetos...
-> Sistema pronto.
+> booting system...
+> loading modules...
+> authentication success
+> welcome, Lipe
 ````
 
-## 🧠 Sobre mim
+---
+
+## 🧠 CORE
 
 ```yaml
-nome: Lipe
-foco: Back-end Development
-stack_principal:
-  - Python
-  - Node.js
-  - TypeScript
-  - JavaScript
-interesses:
-  - Bots
+user: lipe.exe
+role: backend_developer
+level: evolving
+main_stack:
+  - python
+  - node.js
+  - typescript
+  - javascript
+focus:
+  - bots
+  - automação
   - APIs
-  - Automação
-  - Aplicações web
-  - Inteligência Artificial
-status: Em constante evolução
+  - sistemas escaláveis
+status: ONLINE
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ TECH
 
 <div align="center">
 
@@ -56,52 +58,50 @@ status: Em constante evolução
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 PROJECTS
 
 ### 🤖 Panic-Bot
 
-Bot de automação e moderação para grupos, com comandos administrativos, permissões e estrutura escalável.
+```bash
+> bot system for group automation
+> commands: /ban /mute /rank
+> permissions control: enabled
+> architecture: scalable (typescript)
+```
 
-**Features principais:**
-
-* `/ban`
-* `/mute`
-* `/rank`
-* Controle de permissões
-* Organização modular com TypeScript
-
-🔗 **Repositório:** https://github.com/IamLiper/Panic-Bot
+🔗 https://github.com/IamLiper/Panic-Bot
 
 ---
 
 ### 💰 App-Financeiro
 
-Aplicação voltada para organização financeira pessoal, controle de gastos e planejamento.
+```bash
+> financial control system
+> features: tracking / categories / planning
+> structure: ready for expansion
+> usability: real-life focused
+```
 
-**Features principais:**
-
-* Controle de receitas e despesas
-* Organização por categorias
-* Base pronta para expansão
-* Estrutura prática para uso real
-
-🔗 **Repositório:** https://github.com/IamLiper/App-Financeiro
+🔗 https://github.com/IamLiper/App-Financeiro
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 SYSTEM STATUS
 
-<div align="center">
+```bash
+CPU: ███████████ 100%
+RAM: █████████░░ 90%
+FOCUS: ███████████ 100%
+DISCIPLINA: ███████████ 100%
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IamLiper&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" />
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IamLiper&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" />
-
-</div>
+> criando projetos...
+> aprendendo continuamente...
+> evoluindo...
+```
 
 ---
 
-## 🌐 Conexões
+## 🌐 CONNECT
 
 <div align="center">
 
@@ -115,22 +115,26 @@ Aplicação voltada para organização financeira pessoal, controle de gastos e 
 
 ---
 
-## 🖥️ Terminal
+## 🖥️ TERMINAL
 
 ```bash
-lipe@github:~$ status
-> Desenvolvedor focado em construir soluções reais com código limpo,
-> automação, bots e aplicações escaláveis.
+lipe@system:~$ whoami
+> backend developer
 
-lipe@github:~$ next_step
-> Aprender mais, construir mais, evoluir sempre.
+lipe@system:~$ current_mission
+> build real systems
+> scale ideas
+> master code
+
+lipe@system:~$ next_level
+> loading...
 ```
 
 ---
 
 <div align="center">
 
-### > ACCESS GRANTED_
+### ⚡ SYSTEM FULLY OPERATIONAL ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer" />
 
