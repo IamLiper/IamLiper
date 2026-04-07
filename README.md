@@ -1,69 +1,79 @@
 <div align="center">
-  <h1>Olá, Eu sou Lipe 👋</h1>
-  <p>Desenvolvedor focado em Back-end com **Python** e **Flask**, explorando projetos Full-Stack e o poder da Inteligência Artificial. Apaixonado por transformar ideias em código limpo.</p>
+
+# 👋 Olá, eu sou o Lipe
+
+💻 Desenvolvedor focado em Back-end
+⚡ Construindo sistemas com performance, automação e IA
+🚀 Sempre evoluindo e criando projetos reais
+
 </div>
 
 ---
 
-## 🛠️ Minha Stack Principal
-
-Aqui estão as tecnologias que uso e amo.
-
-<table>
-  <tr>
-    <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="100px">
-      <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b2724c0d-83f6-4718-8dde-f464aa19addd" />
-      <br>Flask
-    </td>
-    <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-      <br>CSS3
-    </td>
-    </td>
-  </tr>
-</table>
-
----
-
-## ✨ Destaque: Projetos Recentes
-
-Confira meu projeto de Full-Stack mais recente:
-
-| Projeto | Tecnologia | Descrição |
-| :--- | :--- | :--- |
-| **[Carta Inteligente](https://frontend-0ak6.onrender.com/)** | Python, Flask, IA (OpenAI), JS, Render | Uma aplicação web que gera cartas de amor personalizadas usando inteligência artificial, calculando o tempo de relacionamento em tempo real. **(Backend e Frontend no Render)** |
-| **[Em breve]** | [Em breve] | [Breve descrição do meu 2º melhor projeto] |
-
----
-
-## 📈 Estatísticas do GitHub
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamLiper&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamLiper&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript)
+
 </div>
 
 ---
 
-## ✉️ Conecte-se Comigo
+## 🧠 Projetos em Destaque
 
-| Plataforma | Ícone | Contato |
-| :--- | :--- | :--- |
-| **LinkedIn** | 💼 | [Meu Perfil do LinkedIn](https://www.linkedin.com/in/luis-felipe-ferreira-024898287) |
-| **E-mail** | 📧 | **felipinho260206@gmail.com** |
-| **Instagram** | 💬 | [Meu Instagram](https://www.instagram.com/iam_liper/) |
+### 🤖 Panic-Bot
 
-<br>
-<p align="center">Feito com ❤️ e código.</p>
+Bot avançado para automação de grupos com sistema de comandos, permissões e moderação.
+
+* Sistema de comandos (/ban, /mute, /rank)
+* Controle de permissões por usuário
+* Estrutura escalável com TypeScript
+
+🔗 Repositório: https://github.com/IamLiper/Panic-Bot
+
+---
+
+### 💰 App Financeiro
+
+Aplicação para controle financeiro pessoal com foco em organização e planejamento.
+
+* Controle por categorias
+* Gestão de gastos e receitas
+* Estrutura preparada para expansão
+
+🔗 Repositório: https://github.com/IamLiper/App-Financeiro
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=IamLiper&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamLiper&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/luis-felipe-ferreira-024898287)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge\&logo=instagram)](https://www.instagram.com/iam_liper/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail)](mailto:felipinho260206@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⚡ "Transformando ideias em código e código em resultado."
+
+</div>
